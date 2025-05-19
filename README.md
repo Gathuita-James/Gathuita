@@ -7,8 +7,8 @@
 - <b>Front end Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
   - [Image Analysis Middleware](https://[github.com/joshmadakor1](https://github.com/Gathuita-James/Gathuita)/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 - <b>PowerShell</b>
-- <b>C# (💬 Ask me about)</b>
-  - [ C,Java,Android Dev,Web Dev)](https://drive.google.com/file/d/1HgFtZ7Cao7nLJmCCspiLqBDAoJQqRdmk/view?usp=drive_link)
+- <b> (💬 Ask me about)</b>
+  - [ C,Java,Web Dev)](https://drive.google.com/file/d/1HgFtZ7Cao7nLJmCCspiLqBDAoJQqRdmk/view?usp=drive_link)
   - [How to reach me (Email)](jamesthaw22@gmail.com)
   - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
 - <b>Python</b>
