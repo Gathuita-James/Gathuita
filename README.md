@@ -10,7 +10,6 @@
 - <b> (💬 Ask me about)</b>
   - [ C,Java,Web Dev)](https://drive.google.com/file/d/1HgFtZ7Cao7nLJmCCspiLqBDAoJQqRdmk/view?usp=drive_link)
   - [How to reach me (Email)](jamesthaw22@gmail.com)
-  - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
 - <b>Python</b>
 <h2> 🤳 Connect with me:</h2>
 <img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />[@ThawunixVinci1]
