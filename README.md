@@ -2,11 +2,12 @@
 
 <h2>👨‍💻 Projects:</h2>
 
-- <b>Project 1 (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/)
+- <b>Weather prediction pjt</b>
+- [ Weather-App ](https://github.com/Gathuita-James/weather-predict)
+- <b>Project 1 (Configuration with Knex)</b>
+  - [Configuration with Knex](https://github.com/Gathuita-James/cdms)
 - <b>Front end Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
   - [Image Analysis Middleware](https://[github.com/joshmadakor1](https://github.com/Gathuita-James/Gathuita)/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
-- <b>PowerShell</b>
 - <b> (💬 Ask me about)</b>
   - [ C,Java,Web Dev)](https://drive.google.com/file/d/1HgFtZ7Cao7nLJmCCspiLqBDAoJQqRdmk/view?usp=drive_link)
   - [How to reach me (Email)](jamesthaw22@gmail.com)
